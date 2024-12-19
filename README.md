@@ -47,7 +47,4 @@ RocketMovies é uma aplicação web para gerenciamento de filmes, onde os usuár
 - Gerenciador de pacotes (npm ou yarn).
 - Git.
 
-### Clone o Repositório
-```bash
-git clone https://github.com/seu-usuario/rocketmovies.git
-cd rocketmovies
+
